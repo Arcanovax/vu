@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env*
+!.env.example
+api/config.php
+api/db.php
+.vite/
+.DS_Store
+.vscode/
+public/api/commits.json
+scripts/
+.php/
+!scripts/
+!scripts/php-server.js
